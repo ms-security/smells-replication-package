@@ -68,3 +68,7 @@ Among the matching primary studies, we selected those satisfying the following *
 * Search engine			
 
 ## Raw Data
+* [Candidate-literature.csv](candidate-literature.csv) contains the candidate primary studies to be filtered with the **inclusion criteria**
+* [Selected-literature.csv](selected-literature.csv) contains the selected primary studies after we have applied the **inclusion criteria**
+* [Analysis.csv](analysis.csv) contains the information recovered from the selected primary studies.
+* [Classification.csv](classification.csv) contains the classification of the selected primary studies according to the identified security smells and refactorings.
