@@ -1,8 +1,8 @@
-# Raw Replication Package
+# Raw Replication Package
 
-We here provide a raw version of the replication package. We first report on the **study protocol** (below), and we provide the **raw data** of our analysis in a CSV format.
+We here provide a raw version of the replication package. We below report on the **study protocol** and we provide the **raw data** of our analysis in a CSV format.
 
-## Study Protocol
+## Study Protocol
 
 ### Research questions			
 * **RQ1**:	What are the smells indicating possible security violations in microservice-based applications?		
@@ -47,7 +47,7 @@ Please find below the search strings used on **Google**, **Bing**, and **DuckDuc
 
 As a result, we had 6353 matching white/grey primary studies to consider.
 
-###  Literature Selection
+### Literature Selection
 Among the matching primary studies, we selected those satisfying the following **inclusion criteria**:
 * A study is selected if published between 01/01/2011 and 31/12/2020			
 * A study is to be selected if it is written in English.			
@@ -57,7 +57,7 @@ Among the matching primary studies, we selected those satisfying the following *
 * A study is selected if it presents at least one security smell possibly resulting in a violation of a security property defined by the ISO/IEC 25010 standard			
 * A study is selected if it presents at least one refactoring for mitigating the effects of a security smell, even if the latter is not explicitly mentioned.			
 
-### Coding Schema			
+### Coding Schema			
 * type (white/grey)			
 * sub-type [white] conference vs journal paper vs book chapter | [grey] blog post vs video vs whitepaper vs documentation			
 * authors			
@@ -66,3 +66,5 @@ Among the matching primary studies, we selected those satisfying the following *
 * year			
 * URL/link			
 * Search engine			
+
+# Raw Data
